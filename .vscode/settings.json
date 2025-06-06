@@ -2,5 +2,10 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "notebook.output.fontSize": 11,
+    "notebook.output.lineHeight": 10,
+    "notebook.output.scrolling": false,
+    "notebook.output.textLineLimit": 60,
+    "notebook.output.wordWrap": false
 }
