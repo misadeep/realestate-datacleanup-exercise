@@ -5,7 +5,7 @@
     },
     "notebook.output.fontSize": 11,
     "notebook.output.lineHeight": 10,
-    "notebook.output.scrolling": false,
+    "notebook.output.scrolling": true,
     "notebook.output.textLineLimit": 60,
     "notebook.output.wordWrap": false
 }
